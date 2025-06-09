@@ -1,8 +1,8 @@
 :root {
-  --bs-primary-rgb: 178, 150, 125;/*一定要是 R,G,B ，這個改成你要的顏色*/
-  --bs-link-color: #69ce83;/*這是超連結的顏色*/
-  --bs-link-hover-color: #c5355e;/*這是超連結滑鼠游標移動過去的時候呈現的顏色*/
-} /*這個要在 mystyle.css 第一行*/
+  --bs-primary-rgb: #dc3545, #0d6efd, #6c757d;
+  --bs-link-color: #373f51;
+  --bs-link-hover-color: #637192;
+}
 
 .bg-primary {
   --bs-bg-opacity: 1;
